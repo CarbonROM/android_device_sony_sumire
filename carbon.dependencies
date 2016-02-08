@@ -1,0 +1,68 @@
+[
+  {
+    "remote": "carbon",
+    "repository": "CarbonROM/android_device_sony_kitakami-common",
+    "target_path": "device/sony/kitakami-common",
+    "revision": "cr-4.0"
+  },
+  {
+    "remote": "carbon",
+    "repository": "CarbonROM/android_device_sony_common",
+    "target_path": "device/sony/common",
+    "revision": "cr-4.0"
+  },
+  {
+    "remote": "gh",
+    "repository": "sonyxperiadev/kernel",
+    "target_path": "kernel/sony/msm",
+    "revision": "aosp/LA.BF64.1.2.2_rb4.7"
+  },
+  {
+    "remote": "gh",
+    "repository": "sonyxperiadev/thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "revision": "master"
+  },
+  {
+    "remote": "gh",
+    "repository": "sonyxperiadev/macaddrsetup",
+    "target_path": "hardware/sony/macaddrsetup",
+    "revision": "master"
+  },
+  {
+    "remote": "gh",
+    "repository": "sonyxperiadev/timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "revision": "master"
+  },
+  {
+    "remote": "gh",
+    "repository": "sonyxperiadev/device-qcom-sepolicy",
+    "target_path": "device/qcom/sepolicy",
+    "revision": "master"
+  },
+  {
+    "remote": "gh",
+    "repository": "sonyxperiadev/vendor-qcom-opensource-dataservices",
+    "target_path": "hardware/qcom/opensource/dataservices",
+    "revision": "master"
+  },
+  {
+    "remote": "gh",
+    "repository": "SuperBenevolent/aosp-vendor-sony",
+    "target_path": "vendor/sony",
+    "revision": "marshmallow-mr0"
+  },
+  {
+    "remote": "gh",
+    "repository": "SuperBenevolent/aosp-vendor-qcom",
+    "target_path": "vendor/qcom",
+    "revision": "marshmallow-mr0"
+  },
+  {
+    "remote": "gh",
+    "repository": "SuperBenevolent/aosp-vendor-qcom-proprietary-firmware",
+    "target_path": "vendor/qcom/proprietary/firmware",
+    "revision": "master"
+  }
+]
