@@ -23,7 +23,7 @@ TARGET_SCREEN_WIDTH := 1080
 $(call inherit-product, device/sony/sumire/aosp_e6653.mk)
 
 # Inherit Carbon Shinano common device parts
-$(call inherit-product, device/sony/kitakami-common/device_carbon.mk)
+$(call inherit-product, device/sony/kitakami-common/platform_carbon.mk)
 
 # Inherit Carbon GSM telephony parts
 $(call inherit-product, vendor/carbon/config/gsm.mk)
