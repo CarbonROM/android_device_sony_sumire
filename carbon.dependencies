@@ -12,6 +12,12 @@
     "revision": "cr-4.0"
   },
   {
+    "remote": "carbon",
+    "repository": "CarbonROM/android_hardware_sony_init",
+    "target_path": "hardware/sony/init",
+    "revision": "cr-4.0"
+  },
+  {
     "remote": "gh",
     "repository": "sonyxperiadev/kernel",
     "target_path": "kernel/sony/msm",
@@ -21,6 +27,12 @@
     "remote": "gh",
     "repository": "sonyxperiadev/thermanager",
     "target_path": "hardware/sony/thermanager",
+    "revision": "master"
+  },
+  {
+    "remote": "gh",
+    "repository": "sonyxperiadev/mkqcdtbootimg",
+    "target_path": "hardware/sony/mkqcdtbootimg",
     "revision": "master"
   },
   {
@@ -37,15 +49,21 @@
   },
   {
     "remote": "gh",
-    "repository": "sonyxperiadev/device-qcom-sepolicy",
-    "target_path": "device/qcom/sepolicy",
-    "revision": "master"
+    "repository": "omnirom/android_device_qcom_aosp-sepolicy",
+    "target_path": "device/qcom/aosp-sepolicy",
+    "revision": "android-6.0"
   },
   {
     "remote": "gh",
     "repository": "sonyxperiadev/vendor-qcom-opensource-dataservices",
-    "target_path": "hardware/qcom/opensource/dataservices",
+    "target_path": "hardware/sony/opensource/dataservices",
     "revision": "master"
+  },
+  {
+    "remote": "gh",
+    "repository": "omnirom/android_hardware_sony_camera",
+    "target_path": "hardware/sony/camera",
+    "revision": "android-6.0"
   },
   {
     "remote": "gh",
