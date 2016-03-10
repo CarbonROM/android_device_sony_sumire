@@ -61,9 +61,9 @@
   },
   {
     "remote": "gh",
-    "repository": "omnirom/android_hardware_sony_camera",
+    "repository": "CarbonROM/android_hardware_qcom_camera",
     "target_path": "hardware/sony/camera",
-    "revision": "android-6.0"
+    "revision": "cr-4.0-sony"
   },
   {
     "remote": "gh",
