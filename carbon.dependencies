@@ -31,12 +31,6 @@
   },
   {
     "remote": "gh",
-    "repository": "sonyxperiadev/mkqcdtbootimg",
-    "target_path": "hardware/sony/mkqcdtbootimg",
-    "revision": "master"
-  },
-  {
-    "remote": "gh",
     "repository": "sonyxperiadev/macaddrsetup",
     "target_path": "hardware/sony/macaddrsetup",
     "revision": "master"
