@@ -67,8 +67,8 @@
   },
   {
     "remote": "gh",
-    "repository": "SuperBenevolent/aosp-vendor-qcom",
-    "target_path": "vendor/qcom",
+    "repository": "SuperBenevolent/aosp-vendor-qcom-prebuilt",
+    "target_path": "vendor/qcom/prebuilt",
     "revision": "marshmallow-mr0"
   },
   {
