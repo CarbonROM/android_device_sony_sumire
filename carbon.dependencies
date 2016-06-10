@@ -25,6 +25,12 @@
   },
   {
     "remote": "gh",
+    "repository": "sonyxperiadev/device-sony-common-headers",
+    "target_path": "device/sony/common-headers",
+    "revision": "aosp/LA.BF64.1.2.2_rb4.7"
+  },
+  {
+    "remote": "gh",
     "repository": "sonyxperiadev/thermanager",
     "target_path": "hardware/sony/thermanager",
     "revision": "master"
