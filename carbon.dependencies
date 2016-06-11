@@ -79,8 +79,8 @@
   },
   {
     "remote": "gh",
-    "repository": "SuperBenevolent/aosp-vendor-qcom-proprietary-firmware",
-    "target_path": "vendor/qcom/proprietary/firmware",
+    "repository": "SuperBenevolent/aosp-vendor-qcom-firmware",
+    "target_path": "vendor/qcom/firmware",
     "revision": "master"
   }
 ]
