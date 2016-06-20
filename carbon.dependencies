@@ -48,10 +48,10 @@
     "revision": "master"
   },
   {
-    "remote": "carbon",
-    "repository": "CarbonROM/android_device_sony_sepolicy",
+    "remote": "gh",
+    "repository": "sonyxperiadev/device-sony-sepolicy",
     "target_path": "device/sony/sepolicy",
-    "revision": "cr-4.0"
+    "revision": "m-mr1"
   },
   {
     "remote": "gh",
