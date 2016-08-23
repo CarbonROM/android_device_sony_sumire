@@ -3,19 +3,19 @@
     "remote": "carbon",
     "repository": "CarbonROM/android_device_sony_kitakami-common",
     "target_path": "device/sony/kitakami-common",
-    "revision": "cr-4.0"
+    "revision": "cr-5.0"
   },
   {
     "remote": "carbon",
     "repository": "CarbonROM/android_device_sony_common",
     "target_path": "device/sony/common",
-    "revision": "cr-4.0"
+    "revision": "cr-5.0"
   },
   {
     "remote": "carbon",
     "repository": "CarbonROM/android_hardware_sony_init",
     "target_path": "hardware/sony/init",
-    "revision": "cr-4.0"
+    "revision": "cr-5.0"
   },
   {
     "remote": "gh",
@@ -51,7 +51,7 @@
     "remote": "gh",
     "repository": "sonyxperiadev/device-sony-sepolicy",
     "target_path": "device/sony/sepolicy",
-    "revision": "m-mr1"
+    "revision": "master"
   },
   {
     "remote": "gh",
@@ -63,7 +63,7 @@
     "remote": "carbon",
     "repository": "CarbonROM/android_hardware_sony_camera",
     "target_path": "hardware/sony/camera",
-    "revision": "cr-4.0"
+    "revision": "cr-5.0"
   },
   {
     "remote": "gh",
