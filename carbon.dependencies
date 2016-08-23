@@ -69,13 +69,13 @@
     "remote": "gh",
     "repository": "SuperBenevolent/aosp-vendor-sony",
     "target_path": "vendor/sony",
-    "revision": "marshmallow-mr0"
+    "revision": "m-mr1"
   },
   {
     "remote": "gh",
     "repository": "SuperBenevolent/aosp-vendor-qcom-prebuilt",
     "target_path": "vendor/qcom/prebuilt",
-    "revision": "marshmallow-mr0"
+    "revision": "m-mr1"
   },
   {
     "remote": "gh",
