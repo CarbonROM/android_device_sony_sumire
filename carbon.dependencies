@@ -12,10 +12,10 @@
     "revision": "cr-5.0"
   },
   {
-    "remote": "carbon",
-    "repository": "CarbonROM/android_hardware_sony_init",
-    "target_path": "hardware/sony/init",
-    "revision": "cr-5.0"
+    "remote": "gh",
+    "repository": "sonyxperiadev/device-sony-common-init",
+    "target_path": "device/sony/common-init",
+    "revision": "master"
   },
   {
     "remote": "gh",
