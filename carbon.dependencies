@@ -64,23 +64,5 @@
     "repository": "CarbonROM/android_hardware_sony_camera",
     "target_path": "hardware/sony/camera",
     "revision": "cr-5.0"
-  },
-  {
-    "remote": "gh",
-    "repository": "SuperBenevolent/aosp-vendor-sony",
-    "target_path": "vendor/sony",
-    "revision": "m-mr1"
-  },
-  {
-    "remote": "gh",
-    "repository": "SuperBenevolent/aosp-vendor-qcom-prebuilt",
-    "target_path": "vendor/qcom/prebuilt",
-    "revision": "m-mr1"
-  },
-  {
-    "remote": "gh",
-    "repository": "SuperBenevolent/aosp-vendor-qcom-firmware",
-    "target_path": "vendor/qcom/firmware",
-    "revision": "master"
   }
 ]
