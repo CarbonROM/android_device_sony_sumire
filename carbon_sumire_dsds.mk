@@ -17,7 +17,7 @@ TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1080
 
 # Inherit AOSP Shinano common device parts
-$(call inherit-product, device/sony/sumire/aosp_e6653.mk)
+$(call inherit-product, device/sony/sumire/aosp_e6683.mk)
 
 # Inherit Carbon Shinano common device parts
 $(call inherit-product, device/sony/kitakami-common/platform_carbon.mk)
@@ -29,8 +29,8 @@ $(call inherit-product, vendor/carbon/config/gsm.mk)
 $(call inherit-product, vendor/carbon/config/common.mk)
 
 # Override Product Name for CarbonROM
-PRODUCT_NAME := carbon_sumire
-PRODUCT_MODEL := Xperia Z5
+PRODUCT_NAME := carbon_sumire_dsds
+PRODUCT_MODEL := Xperia Z5 Dual
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := E6603,E6653,sumire
+TARGET_OTA_ASSERT_DEVICE := E6633,E6683,sumire
