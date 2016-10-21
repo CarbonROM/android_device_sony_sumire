@@ -1,8 +1,6 @@
 [
   {
-    "remote": "carbon",
     "repository": "CarbonROM/android_device_sony_kitakami-common",
-    "target_path": "device/sony/kitakami-common",
-    "revision": "cr-5.0"
+    "target_path": "device/sony/kitakami-common"
   }
 ]
