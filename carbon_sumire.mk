@@ -34,3 +34,6 @@ PRODUCT_MODEL := Xperia Z5
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := E6603,E6653,sumire
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.carbon.maintainer="Myself5"
