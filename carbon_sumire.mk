@@ -16,10 +16,13 @@
 
 $(call inherit-product, device/sony/sumire/full_sumire.mk)
 
-# Inherit some common CM stuff
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit Carbon GSM telephony parts
+$(call inherit-product, vendor/carbon/config/gsm.mk)
 
-PRODUCT_NAME := lineage_sumire
+# Inherit Carbon product configuration
+$(call inherit-product, vendor/carbon/config/common.mk)
+
+PRODUCT_NAME := carbon_sumire
 
 # Use the latest approved GMS identifiers
 
