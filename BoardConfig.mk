@@ -26,6 +26,7 @@ TARGET_OTA_ASSERT_DEVICE := E6633,E6653,sumire,sumire_dsds
 
 # Boot image/kernel
 TARGET_KERNEL_CONFIG := kitakami_sumire_defconfig
+TARGET_COMPILE_WITH_MSM_KERNEL := true
 
 # Audio
 BOARD_HAVE_BCM_FM := true
