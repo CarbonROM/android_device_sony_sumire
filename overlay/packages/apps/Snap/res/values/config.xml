@@ -38,4 +38,6 @@
          Example: 50 instead of ISO50 -->
     <bool name="iso_values_use_numbers">true</bool>
 
+    <bool name="support_camera_api_v2">true</bool>
+
 </resources>
