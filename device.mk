@@ -151,3 +151,8 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     fingerprintd
+
+# Camera2 API
+PRODUCT_PROPERTY_OVERRIDES += \
+	persist.vendor.camera.exif.model=Z5 \
+	persist.vendor.camera.HAL3.enabled=1
